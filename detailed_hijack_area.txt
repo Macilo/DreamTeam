@@ -1,0 +1,106 @@
+Johannesburg
+
+Kelvin Street, CR Swart
+The corner of Kelvin Street and CR Swart.
+
+Pretoria Road , CR Swart
+The corner of Pretoria Road and CR Swart.
+
+Elgin Road, Pretoria Road
+The corner of Elgin Road and Pretoria Road.
+
+Linksfield Road, N3
+Linksfield Road off-ramp off the N3.
+
+Booysens Road, M1
+Booysens Road off-ramp off the M1.
+
+Nelson Mandela Bridge
+The Nelson Mandela Bridge, be alert.
+
+Wolmarans, Claim, Nugget
+Wolmarans between Claim and Nugget.
+
+Harrow, Saratoga
+The corner of Harrow and Saratoga.
+
+Harrow, Abel
+The corner of Harrow and Abel.
+
+Houghton Drive, M1
+The Houghton Drive off-ramp off the M1.
+
+Jan Smuts Avenue, St Andrews
+The corner of Jan Smuts Avenue and St Andrews.
+
+17th Street, Krause Street, Pageview
+The corner of 17th Street and Krause Street in Pageview.
+
+Heidelberg Road, N17
+The Heidelberg Road off-ramp off the N17.
+
+Kyalami Drive
+Traffic lights on Kyalami Drive.
+
+Beyers Naude, N1
+The Beyers Naude off-ramp off the N1 highway.
+
+Sunninghill, N1, Rivonia
+Rivonia off-ramp off the N1 highway in Sunninghill.
+
+Midrand, Clayville
+Midrand road near Clayville Residents.
+
+Grayston, Rivonia, 11th Street.
+The intersection of Grayston and Rivonia and the intersection of Grayston and 11th Street.
+
+11th Avenue, Empire Road
+11th Avenue and Empire Road off-ramps.
+
+Jan Smuts Avenue, William Nicol Drive, Hyde Park
+The Jan Smuts Avenue/ William Nicol Drive split in Hyde Park.
+
+Witkoppen Road
+Intersections on Witkoppen Road.
+
+Bramley Precinct, Wynberg, Bramley, Marlboro, Kew
+Bramley Precinct, areas such as Wynberg, Bramley, Marlboro and Kew.
+
+Yeoville Precinct, Yeoville, Bellevue, Bellevue East
+Yeoville Precinct, areas such as Yeoville,Bellevue and Bellevue East.
+
+Norwood Precinct, Orange Grove, Highlands
+The Norwood Precinct, areas such as Orange Grove and Highlands.
+
+Sandringham Precinct, Glenhazel, Lombardy East, Sandringham
+The Sandringham Precinct, areas such as Glenhazel, Lombardy East and Sandringham.
+
+Parkview Precinct, 11th avenue, 7th Avenue
+The Parkview Precinct, areas between the 10th and 11th avenue and 4th and 7th Avenue in Parkhurst.
+
+Hillbrow Precinct, Upper Houghton, Killarney
+The Hillbrow Precinct, areas such as Upper Houghton and Killarney.
+
+Rosebank Precinct, Saxonwold, Parkwood
+The Rosebank Precinct, areas such as Saxonwold and Parkwood.
+
+Christiaan de Wet, Wilgerood road, Roodepoort
+The intersection between Christiaan de Wet and Wilgerood road in Roodepoort.
+
+Louis Botha Avenue, M11, Hillbrow, Alexandra
+Louis Botha Avenue, the M11. Be aware at the traffic lights, especially between Hillbrow and Alexandra.
+
+Riviera, M1
+Riviera off-ramp coming off the M1.
+
+Fairland Ex. 6, 11th Avenue, Fairland
+11th Avenue in Fairland, near Fairland Ex. 6.
+
+Alexandra, 1st Avenue, Pretoria Main road
+The corner of Pretoria Main road and 1st Avenue in Alexandra.
+
+New road, N1, robots
+New road off-ramp coming off the N1, be aware at the robots.
+
+William Nichol, N1 highway
+William Nichol off-ramp coming off the N1 highway.
