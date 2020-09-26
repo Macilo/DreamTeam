@@ -7,5 +7,4 @@ def index():
 
 @app.route("/about")
 def about():
-    return "<h1 style='color: red;'>All about Sindi, Your way to safety!</h1>"
-
+    return render_template("public/marker.html")

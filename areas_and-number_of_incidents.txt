@@ -1,23 +1,39 @@
-Honeydew        850
-Roodepoort      580
-Linden          550
-Brooklyn        540 
-Boksburg North  520
-Krugersdorp     520
-Brixton         520
-Veereniging     520
-Alberton        510
-Lyttelton       500
-Florida         500
-Kempton Park    500
-Pretoria West   500
-Hilbrow         500
-Parkview        500
-Sunnyside       500
-Wierdabrug      500
-Pretoria Central 500
-Jhb Central     500
-Vanderbijlpark  500
+Honeydew,18:00,23:59,H
+Honeydew,06:00,11:59,L
+Honeydew,12:00,17:59,MH
+Honeydew,00:00,05:59,M
+
+Roodepoort,18:00,23:59,
+Roodepoort,06:00,11:59,
+Roodepoort,12:00,17:59,
+Roodepoort,00:00,05:59,z
+Linden,18:00,23:59, (550)
+Linden,06:00,11:59,
+Linden,12:00,17:59,
+Linden,00:00,05:59,
+Brooklyn,18:00,23:59, (540)
+Brooklyn,06:00,11:59,
+Brooklyn,12:00,17:59,
+Brooklyn,00:00,05:59,
+Boksburg North,18:00,23:59, (520)
+Boksburg North,06:00,11:59,
+Boksburg North,12:00,17:59,
+Boksburg North,00:00,05:59,
+Brooklyn,540,18:00,23:59 
+Boksburg North,520,18:00,23:59
+Brixton,520,18:00,23:59
+Veereniging,520,06:00,12:00
+Alberton,510,06:00,12:00
+Florida,500,06:00,12:00
+Kempton Park,500,00:00,06:00
+Hilbrow,500,00:00,06:00
+Parkview,500,12:00,18:00 
+Jhb Central,500,12:00,18:00 
+
+
+PHEPHA
+---------------------------------------------------------------------------
+Vanderbijlpark,500
 Benoni          500
 Randfontein     490
 Germiston       490
